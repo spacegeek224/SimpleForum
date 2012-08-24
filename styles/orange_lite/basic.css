@@ -1,0 +1,88 @@
+body {background-color: white;}
+body {background-image: url('img/background.jpg');}
+body {background-repeat: no-repeat;}
+body {background-position: 50% 0;}
+body {margin: 0px 0px 0px 0px;}
+
+#barra_principal {
+text-align: center;   
+position: center;  
+margin-right: 0%;
+margin-left: 0%;
+background: #e8a400;
+padding: 10px;
+opacity:.99;
+border: 1px solid #ac7900;
+border-radius: 0px;
+}
+
+#foros {
+/*text-align: left;*/   
+position: center;  
+margin-right: 5%;
+margin-left: 5%;
+padding: 10px;
+opacity:.99;
+border: 1px solid #f3b622;
+border-radius: 7px;
+}
+
+#mensajes {
+/*text-align: left;*/   
+position: center;  
+margin-right: 0%;
+margin-left: 0%;
+padding: 10px;
+opacity:.99;
+border: 1px solid #f3b622;
+border-radius: 7px;
+}
+
+.clearfooter {
+height: 110px;
+clear: both;
+}
+
+#login {
+/*text-align: left;*/   
+position: center;  
+margin-right: 30%;
+margin-left: 30%;
+padding: 10px;
+opacity:.99;
+border: 1px solid #f3b622;
+border-radius: 7px;
+}
+
+#perfil {
+/*text-align: left;*/   
+position: center;  
+margin-right: 30%;
+margin-left: 30%;
+padding: 10px;
+opacity:.99;
+border: 1px solid #f3b622;
+border-radius: 7px;
+}
+
+#perfil_info {
+/*text-align: left;*/   
+position: right;  
+margin-right: 30%;
+margin-left: 30%;
+padding: 10px;
+opacity:.99;
+border: 1px solid black;
+border-radius: 7px;
+}
+
+#registro {
+/*text-align: left;*/   
+position: center;  
+margin-right: 30%;
+margin-left: 30%;
+padding: 10px;
+opacity:.99;
+border: 1px solid #f3b622;
+border-radius: 7px;
+}
