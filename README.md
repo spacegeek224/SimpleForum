@@ -1,1 +1,1 @@
-omg
+<h1>SimpleForum</h1>
