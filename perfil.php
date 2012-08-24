@@ -39,7 +39,7 @@ $perfil =mysql_fetch_assoc(mysql_query("SELECT * FROM user WHERE id='".$_GET['id
         <center><b>Acciones</b><br />
         <?php if($_SESSION['nick'] == $perfil['nick']){ echo '<a href="editp.php">editar perfil</a>';}; ?><br />
             <a href="sendmp.php">Enviar MP</a>    
-        
+        dd
         
         
         
